@@ -1,0 +1,56 @@
+.veloz {
+  width: 55vw;
+  margin: 0 auto;
+  padding-top: 100px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.1px;
+}
+
+.image {
+  height: 350px;
+  width: 339px;
+  object-fit: cover;
+}
+
+.flixicar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.unicalass {
+  height: 85px;
+  width: 82px;
+}
+
+.tamanho0 {
+  width: 110px;
+  height: 30px;
+}
+
+.tamanho {
+  width: 40px;
+  height: 30px;
+  padding-left: 18px;
+}
+
+.parte1 {
+  height: 350px;
+  width: 339px;
+}
+
+.bbb{
+  padding-top: 12px;
+}
+
+.number {
+  padding-top: 45px;
+}
+
+.number a {
+  text-decoration: none;
+  background: hsl(12, 91%, 50%);
+  color: white;
+  padding: 9px;
+  border-radius: 16px;
+}

@@ -1,0 +1,144 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2:wght@400;500&family=Open+Sans:ital,wght@0,300;1,300&family=Roboto:ital,wght@0,100;1,100&display=swap");
+
+/* font-family: 'Baloo Tammudu 2', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+body {
+  padding: 0px;
+  margin: 0px;
+  height:100%;
+}
+
+#procinpo {
+  background: violet;
+}
+
+.principal,
+.main,
+.navbar,
+.footer,
+.copy {
+  width: 80vw;
+  margin: 0 auto;
+}
+
+.copy p {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.card-img {
+  height: 230px;
+  width: 200px;
+  object-fit: cover;
+}
+
+.card {
+  height: 430px;
+  width: 200px;
+}
+
+.texto {
+  padding-top: 77px;
+}
+
+.h1 {
+  font-size: 45px;
+  font-family: "Open Sans", sans-serif;
+  color: black;
+}
+
+.pelo {
+  font-family: "Open Sans", sans-serif;
+  color: black;
+}
+
+.brotec {
+  padding-top: 25px;
+}
+
+.loguinho,
+.logui {
+  height: 38px;
+}
+
+.logui {
+  padding-left: 18px;
+}
+
+.btooo {
+  padding-top: 8px;
+}
+
+.btn {
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+  background: hsla(9, 96%, 51%, 0.979);
+  padding-top: 7px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 7px;
+  color: white;
+  border-bottom-left-radius: 16px;
+  border-top-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+  border-top-right-radius: 16px;
+}
+
+.principal,
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer,
+.copy {
+  color: wheat;
+}
+
+.jogadores {
+  height: 450px;
+}
+
+.gridificando {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  padding-top: 40px;
+  padding-bottom: 40px;
+  gap: 8px;
+}
+
+.droid {
+  width: 300px;
+}
+
+.redes {
+  text-align: center;
+}
+
+.trui {
+  height: 30px;
+}
+
+.heide {
+  padding-top: 20px;
+}
+
+.tru {
+  height: 55px;
+}
+
+.droi {
+  display: flex;
+  justify-content: center;
+}
+
+.star {
+  height: 18px;
+}
+
+.fooooterr {
+  padding-top: 45px;
+  background: black;
+}
